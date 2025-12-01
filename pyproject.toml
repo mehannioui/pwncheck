@@ -1,0 +1,19 @@
+[project]
+name = "pwncheck"
+version = "1.0.0"
+description = "A secure terminal password breach checker using k-anonymity."
+authors = [{name="MOHAMED HANNIOUI"}]
+readme = "README.md"
+requires-python = ">=3.8"
+license = {file = "LICENSE"}
+
+dependencies = [
+    "requests"
+]
+
+[project.scripts]
+pwncheck = "pwncheck.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+

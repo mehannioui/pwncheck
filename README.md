@@ -1,0 +1,26 @@
+# 🔐 pwncheck
+
+A secure, private, terminal-based password breach checker using the **HaveIBeenPwned k-anonymity API**.  
+Your password is never sent over the internet — only **5 characters of its SHA1 hash**.
+
+---
+
+## ⭐ Features
+
+- ✔ 100% secure — never sends your password
+- ✔ Interactive hidden mode (`getpass`)
+- ✔ Colorized CLI output
+- ✔ Debug logging
+- ✔ Unit tests (pytest)
+- ✔ pip-installable package
+- ✔ Easy-to-read modular code
+
+---
+
+## 🚀 Install
+
+### Install locally
+
+```bash
+pip install -e .
+```
