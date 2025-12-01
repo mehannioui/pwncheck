@@ -32,12 +32,12 @@ Your password is never sent over the internet — only **5 characters of its SHA
 
 ### From PyPI (recommended)
 
-````bash
+```bash
 pip install pwncheck
-
+```
 
 ### Install locally
 
 ```bash
 pip install -e .
-````
+```
