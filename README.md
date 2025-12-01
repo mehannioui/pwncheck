@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/pwncheck?color=blue&label=PyPI%20Version" alt="PyPI Version">
+  <img src="https://img.shields.io/pypi/dm/pwncheck?label=Downloads" alt="Downloads">
+  <img src="https://img.shields.io/github/license/mehannioui/pwncheck" alt="License">
+  <img src="https://github.com/mehannioui/pwncheck/actions/workflows/tests.yml/badge.svg" alt="Build Status">
+  <img src="https://img.shields.io/github/last-commit/mehannioui/pwncheck" alt="Last Commit">
+  <img src="https://coveralls.io/repos/github/mehannioui/pwncheck/badge.svg?branch=main" alt="Coverage Status">
+  <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Black">
+  <img src="https://img.shields.io/pypi/pyversions/pwncheck.svg" alt="Python Versions">
+</p>
+
 # 🔐 pwncheck
 
 A secure, private, terminal-based password breach checker using the **HaveIBeenPwned k-anonymity API**.  
